@@ -6,6 +6,8 @@
 #wall #tag-2 {
   display: none;
 }
+
+/* hides this  <div id="tag-3" class="slick wicked"></div> */
 div#wall #tag-3.slick.wicked {
   display: none;
 }
